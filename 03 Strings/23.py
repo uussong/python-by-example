@@ -1,0 +1,5 @@
+lyrics = input()
+print(len(lyrics))
+start_num = int(input())
+end_num = int(input())
+print(lyrics[start_num:end_num])
